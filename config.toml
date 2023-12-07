@@ -1,0 +1,3 @@
+[server]
+enableCORS = false
+enableWebsocketCompression = false
