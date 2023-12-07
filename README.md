@@ -118,7 +118,7 @@ This project is released open-source under the Apache 2.0 license. By contributi
 
 ## Contact
 
-For any additional questions or feedback, please [open an issue](https://github.com/username/dvla/issues) on the repository.
+For any additional questions or feedback, please [open an issue](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent/issues) on the repository.
 
 Thank you for using *Damn Vulnerable LLM Agent*! Together, let's make cyberspace a safer place for everyone.
 ```
